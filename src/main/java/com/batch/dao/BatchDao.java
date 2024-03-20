@@ -12,8 +12,8 @@ import com.pro.model.Member;
 
 public class BatchDao {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/address_archive";
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "rootmags";
+    private static final String USERNAME = "yourusername";
+    private static final String PASSWORD = "yourpassword";
 
     static {
         try {
